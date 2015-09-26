@@ -1,0 +1,27 @@
+@import url('http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css');
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap-glyphicons.css");
+body{
+    font-family: 'Calibri';
+    background: url("/images/bg_body.png");
+}
+
+.login_title_span{ font-weight:bold; }
+
+.label,.glyphicon { margin-right:5px; }
+
+.x-nav{ background-color:#5CB85C!important; }
+
+.hero-widget { text-align: center; padding-top: 20px; padding-bottom: 20px; }
+.hero-widget .icon { display: block; font-size: 96px; line-height: 96px; margin-bottom: 10px; text-align: center; }
+.hero-widget var { display: block; height: 64px; font-size: 64px; line-height: 64px; font-style: normal; }
+.hero-widget label { font-size: 17px; }
+.hero-widget .options { margin-top: 10px; }
+
+.help-block{
+    font-size: 11px;
+}
+
+.lbl-incorrect-login{
+    color: red;
+    display: none;
+}
